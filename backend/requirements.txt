@@ -1,0 +1,5 @@
+# Runtime dependencies (kept minimal: Vercel bundles everything reachable at build time)
+fastapi>=0.110
+numpy>=1.26
+networkx>=3.2
+pydantic>=2.6
